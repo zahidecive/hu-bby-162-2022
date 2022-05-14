@@ -3,7 +3,7 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "veritabanı.txt",
+      "name": "veritabanı.txt ",
       "provenance": [],
       "authorship_tag": "ABX9TyN6pg2nG39efIsR6Yfc3v+C",
       "include_colab_link": true
