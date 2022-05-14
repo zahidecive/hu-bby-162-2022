@@ -5,8 +5,7 @@
     "colab": {
       "name": "veritabanı.txt",
       "provenance": [],
-      "authorship_tag": "ABX9TyNKFXIN5Fhje0DZ0LNtEv8+",
-      "include_colab_link": true
+      "authorship_tag": "ABX9TyN6pg2nG39efIsR6Yfc3v+C"
     },
     "kernelspec": {
       "name": "python3",
@@ -18,42 +17,20 @@
   },
   "cells": [
     {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/zahidecive/hu-bby162-2022/blob/main/veritaban%C4%B1.txt\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 131
-        },
-        "id": "g31kfiV3CBsL",
-        "outputId": "61d48071-0aac-4627-f197-3ddf75d3dd87"
+        "id": "2GU_qOr4EAHA"
       },
-      "outputs": [
-        {
-          "output_type": "error",
-          "ename": "SyntaxError",
-          "evalue": "ignored",
-          "traceback": [
-            "\u001b[0;36m  File \u001b[0;32m\"<ipython-input-1-b5a518d732fa>\"\u001b[0;36m, line \u001b[0;32m1\u001b[0m\n\u001b[0;31m    1 George ORWELL-1984-Parodi Yayınları-2021\u001b[0m\n\u001b[0m           ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
-          ]
-        }
-      ],
+      "outputs": [],
       "source": [
-        "1 George ORWELL-1984-Parodi Yayınları-2021 \n",
-        "2 Paulo COELHO-Veronika Ölmek İstiyor-Can Sanat Yayınları-2018\n",
-        "3 Khaled HOSSEINI-Uçurtma Avcısı- Everest Yayınları-2018\n",
-        "4 Stefan ZWEIG-Korku-Parodi Yayınları-2020\n",
-        "5 Platon-Sokretes'in Savunması-Parodi Yayınları-2020 "
+        "George ORWELL - 1984 - Parodi Yayınları - 2021\n",
+        "Paulo COELHO - Veronika Ölmek İstiyor - Can Sanat Yayınları - 2018\n",
+        "Khaled HOSSEINI - Uçurtma Avcısı - Everest Yayınları - 2018\n",
+        "William SHAKESPEARE - Romeo ve Juliet - Ren Kitap - 2021\n",
+        "Ahmet ÜMİT - Aşkımız Eski Bir Roman - Yapı Kredi Yayınları - 2019\n",
+        "Mehmet KOÇYİĞİT - 21. Yaş - Ephesus Yayınları - 2018 \n",
+        "Sinan AKYÜZ - İncir Kuşları - Alfa Yayınları - 2020\n"
       ]
     }
   ]
