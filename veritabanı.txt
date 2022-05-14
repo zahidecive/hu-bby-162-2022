@@ -1,37 +1,7 @@
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "name": "veritabanı.txt",
-      "provenance": [],
-      "authorship_tag": "ABX9TyN6pg2nG39efIsR6Yfc3v+C"
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "code",
-      "execution_count": null,
-      "metadata": {
-        "id": "2GU_qOr4EAHA"
-      },
-      "outputs": [],
-      "source": [
-        "George ORWELL - 1984 - Parodi Yayınları - 2021\n",
-        "Paulo COELHO - Veronika Ölmek İstiyor - Can Sanat Yayınları - 2018\n",
-        "Khaled HOSSEINI - Uçurtma Avcısı - Everest Yayınları - 2018\n",
-        "William SHAKESPEARE - Romeo ve Juliet - Ren Kitap - 2021\n",
-        "Ahmet ÜMİT - Aşkımız Eski Bir Roman - Yapı Kredi Yayınları - 2019\n",
-        "Mehmet KOÇYİĞİT - 21. Yaş - Ephesus Yayınları - 2018 \n",
-        "Sinan AKYÜZ - İncir Kuşları - Alfa Yayınları - 2020\n"
-      ]
-    }
-  ]
-}
+
+        "George ORWELL - 1984 - Parodi Yayınları - 2021
+        "Paulo COELHO - Veronika Ölmek İstiyor - Can Sanat Yayınları - 2018
+        "Khaled HOSSEINI - Uçurtma Avcısı - Everest Yayınları - 2018
+        "William SHAKESPEARE - Romeo ve Juliet - Ren Kitap - 2021
+        "Ahmet ÜMİT - Aşkımız Eski Bir Roman - Yapı Kredi Yayınları - 2019
+        "Sinan AKYÜZ - İncir Kuşları - Alfa Yayınları - 2020
